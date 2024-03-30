@@ -1,4 +1,4 @@
-package arrayObject_Containment;
+package com.arrayObject_Containment;
 
 import java.util.Scanner;
 
