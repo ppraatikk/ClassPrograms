@@ -146,7 +146,24 @@ public class HashSet_Operations {
 		
 		
 		
+		TreeSet<Integer>tm3=new TreeSet<>();
+		tm3.add(90);
+		tm3.add(124);
+		tm3.add(101);
+		tm3.add(24);
+		tm3.add(75);
+		tm3.add(199);
+		System.out.println(tm3);
+		Integer num=tm3.pollFirst();
+		System.out.println(num);
+		System.out.println(tm3);
+		System.out.println("//////////////////////////////////////////");
 		
+		
+		Integer num1=tm3.first();
+		tm3.remove(num1);
+		System.out.println(tm3);
+		System.out.println("//////////////////////////////////////////");
 		
 		
 	}
