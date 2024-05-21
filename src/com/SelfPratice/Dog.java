@@ -1,4 +1,4 @@
-package com.selfPratice;
+package com.SelfPratice;
 
 public class Dog {
 	private String name;
